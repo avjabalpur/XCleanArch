@@ -1,4 +1,4 @@
-namespace XMP.Application.DTOs
+namespace XcdifyConnect.Application.DTOs
 {
     public class AxisBankTransactionDto
     {

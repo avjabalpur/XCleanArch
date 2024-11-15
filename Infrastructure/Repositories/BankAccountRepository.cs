@@ -2,11 +2,11 @@ using System.Collections.Generic;
 using System.Data;
 using System.Threading.Tasks;
 using Dapper;
-using XMP.Domain.Entities;
-using XMP.Domain.Repositories;
-using XMP.Infrastructure.DbContext;
+using XcdifyConnect.Domain.Entities;
+using XcdifyConnect.Domain.Repositories;
+using XcdifyConnect.Infrastructure.DbContext;
 
-namespace XMP.Infrastructure.Repositories
+namespace XcdifyConnect.Infrastructure.Repositories
 {
     public class AxisBankTransactionRepository : IAxisBankTransactionRepository
     {

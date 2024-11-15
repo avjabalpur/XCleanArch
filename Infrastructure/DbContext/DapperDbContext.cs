@@ -4,7 +4,7 @@ using Microsoft.Extensions.Configuration;
 using Npgsql;
 
 
-namespace XMP.Infrastructure.DbContext
+namespace XcdifyConnect.Infrastructure.DbContext
 {
     public class DapperDbContext : IDisposable
     {

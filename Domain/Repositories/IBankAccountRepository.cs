@@ -1,8 +1,8 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using XMP.Domain.Entities;
+using XcdifyConnect.Domain.Entities;
 
-namespace XMP.Domain.Repositories
+namespace XcdifyConnect.Domain.Repositories
 {
     public interface IAxisBankTransactionRepository
     {

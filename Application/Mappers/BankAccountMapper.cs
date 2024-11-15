@@ -1,9 +1,9 @@
 using AutoMapper;
-using XMP.Application.DTOs;
-using XMP.Domain.Entities;
+using XcdifyConnect.Application.DTOs;
+using XcdifyConnect.Domain.Entities;
 
 
-namespace XMP.Application.Mappers
+namespace XcdifyConnect.Application.Mappers
 {
     public class AxisBankTransactionProfile : Profile
     {

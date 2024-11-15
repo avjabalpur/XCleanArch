@@ -1,4 +1,4 @@
-namespace XMP.Tests;
+namespace XcdifyConnect.Tests;
 
 [TestClass]
 public class UnitTest1

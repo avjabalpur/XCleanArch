@@ -1,0 +1,6 @@
+@XcdifyConnect.Presentation_HostAddress = http://localhost:5070
+
+GET {{XcdifyConnect.Presentation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

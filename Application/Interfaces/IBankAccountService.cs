@@ -1,9 +1,9 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using XMP.Application.DTOs;
+using XcdifyConnect.Application.DTOs;
 
 
-namespace XMP.Application.Interfaces
+namespace XcdifyConnect.Application.Interfaces
 {
     public interface IAxisBankTransactionService
     {

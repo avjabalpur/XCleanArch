@@ -1,13 +1,13 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using AutoMapper;
-using XMP.Application.DTOs;
-using XMP.Domain.Entities;
-using XMP.Domain.Repositories;
-using XMP.Application.Interfaces;
+using XcdifyConnect.Application.DTOs;
+using XcdifyConnect.Domain.Entities;
+using XcdifyConnect.Domain.Repositories;
+using XcdifyConnect.Application.Interfaces;
 
 
-namespace XMP.Application.Services
+namespace XcdifyConnect.Application.Services
 {
     public class AxisBankTransactionService : IAxisBankTransactionService
     {

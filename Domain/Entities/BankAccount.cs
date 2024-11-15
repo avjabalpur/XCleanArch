@@ -1,4 +1,4 @@
-namespace XMP.Domain.Entities
+namespace XcdifyConnect.Domain.Entities
 {
     public class AxisBankTransaction
     {
